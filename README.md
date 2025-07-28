@@ -5,7 +5,7 @@
 ## 🚀 Cách khởi động
 
 ```
-bash
+git clone https://github.com/Taicode30/Quan_Ly_Chi_Tieu
 npm install
 npm run dev
 ```
